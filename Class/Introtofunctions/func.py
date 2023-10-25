@@ -1,15 +1,15 @@
-number = -1
+# number = -1
 
-if number > 0:
-    print("Positive Number")
-elif number == 0:
-    print("Zero")
-else:
-    print("Negative Number") 
+# if number > 0:
+#     print("Positive Number")
+# elif number == 0:
+#     print("Zero")
+# else:
+#     print("Negative Number") 
 
 
-# for i  in range(5):
-#     print(i)
+for i  in range(5):
+    print(i)
 
 # days = 0
 # weeks = ['Mon','Tue','Wed','Thur','Fri','Sat','Sun']
