@@ -8,15 +8,15 @@
 #     print("Negative Number") 
 
 
-for i  in range(5):
-    print(i)
+# for i  in range(5):
+#     print(i)
 
-# days = 0
-# weeks = ['Mon','Tue','Wed','Thur','Fri','Sat','Sun']
+days = 0
+weeks = ['Mon','Tue','Wed','Thur','Fri','Sat','Sun']
 
-# while days<7:
-#     print("Today is  " + weeks[days])
-#     days+=1
+while days<7:
+    print("Today is  " + weeks[days])
+    days+=1
 
-# weeks[0]
+weeks[0]
 
